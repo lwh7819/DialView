@@ -6,7 +6,7 @@
 ![效果图4](https://raw.githubusercontent.com/lwh7819/source/master/image/dialview4.gif)
 ### 使用
 ```
-maven { url "https://dl.bintray.com/lvweihao/maven" }
+添加依赖：
 compile 'com.lwh.dialView:dialview:1.0.3'
 ```
 ```
